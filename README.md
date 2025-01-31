@@ -7,8 +7,7 @@ This project presents a list of the top ten funniest anime characters in history
 - **Top Funniest Anime Characters** – A carefully arranged list of some of the most celebrated comedic anime characters.
 - **Humorous Video Clips** – Featured segments containing characters' peak entertainment moments.
 - **Character Profiles** – Short bios with descriptions of their humor style and significance.
-- **Viewer Engagement** – Community interaction through comments, ratings, and recommendations.
-- **Anime Recommendations** – Suggestions for shows featuring similar comedic elements.
+
 
 ## Tech Stack
 - **Front End:** HTML, CSS, JavaScript
