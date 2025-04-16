@@ -1,4 +1,3 @@
-```python
 # Funny Anime Characters
 
 ## Project Overview
@@ -16,5 +15,3 @@ This project presents a list of the top ten funniest anime characters in history
 
 ## Why This Project?
 Anime fans worldwide love watching comedic characters, and this platform aims to become their ultimate destination for viewing amusing anime scenes. By offering curated organization combined with community-based participation, the project delivers a laughter-inducing experience for both dedicated anime fans and newcomers.
-
-```
