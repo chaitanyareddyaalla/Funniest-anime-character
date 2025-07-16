@@ -1,4 +1,4 @@
-# Funny Anime Characters
+## Funny Anime Characters 
 
 ## Project Overview
 This project presents a list of the top ten funniest anime characters in history, featuring their best humorous sequences through video collections. Alongside character information and viewer engagement features, the platform serves as a central hub for anime enthusiasts who want to revisit iconic comedy scenes and discover new shows that provide endless entertainment.
